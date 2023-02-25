@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cmake_demo.dir/main.cpp.o -o cmake_demo  -Wl,-rpath,/home/gorar/Documents/study/inf liblibA.a liblibB.so /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 

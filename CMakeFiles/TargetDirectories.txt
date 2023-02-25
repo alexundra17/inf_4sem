@@ -1,0 +1,5 @@
+/home/gorar/Documents/study/inf/CMakeFiles/cmake_demo.dir
+/home/gorar/Documents/study/inf/CMakeFiles/libA.dir
+/home/gorar/Documents/study/inf/CMakeFiles/libB.dir
+/home/gorar/Documents/study/inf/CMakeFiles/edit_cache.dir
+/home/gorar/Documents/study/inf/CMakeFiles/rebuild_cache.dir

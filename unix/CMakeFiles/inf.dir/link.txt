@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/inf.dir/main.cpp.o -o inf 

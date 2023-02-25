@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cmake_demo.dir/main.cpp.o -o cmake_demo  -llibA -llibB /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 

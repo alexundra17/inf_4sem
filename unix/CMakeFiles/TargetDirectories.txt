@@ -1,0 +1,5 @@
+/home/gorar/Documents/study/inf/unix/CMakeFiles/cmake_demo.dir
+/home/gorar/Documents/study/inf/unix/CMakeFiles/A.dir
+/home/gorar/Documents/study/inf/unix/CMakeFiles/B.dir
+/home/gorar/Documents/study/inf/unix/CMakeFiles/edit_cache.dir
+/home/gorar/Documents/study/inf/unix/CMakeFiles/rebuild_cache.dir
